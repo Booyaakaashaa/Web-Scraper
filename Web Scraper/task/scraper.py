@@ -9,10 +9,7 @@ if req.status_code != 200:
 else:
     json_data = req.text
     quote = json.loads(json_data)
-    if quote.get('content') is None:
-        print("Invalid quote resource!")
-    else:
-        print(quote["content"])
+    print(quote.get("content", "Invalid quote resource!"))
     """
     try:
         json_data = req.text
