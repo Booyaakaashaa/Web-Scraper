@@ -10,10 +10,4 @@ else:
     json_data = req.text
     quote = json.loads(json_data)
     print(quote.get("content", "Invalid quote resource!"))
-    """
-    try:
-        json_data = req.text
-        quote = json.loads(json_data)
-        print(quote["content"])
-    except KeyError:
-        print("Invalid quote resource!")"""
+
