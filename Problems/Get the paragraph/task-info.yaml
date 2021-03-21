@@ -8,5 +8,8 @@ files:
     from bs4 import BeautifulSoup
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/10215#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 21 Mar 2021 16:36:49 UTC
 record: -1
