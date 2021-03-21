@@ -10,13 +10,15 @@ if req.status_code != 200 or "imdb" not in url:
     print("Invalid movie page!")
 else:
     soup = BeautifulSoup(req.content, 'html.parser')
-    json_data = soup.find('script', type="application/ld+json")
+    title = soup.find('meta', property='og:title')
+    desc = soup.find('meta', property="og:description")
+    print(title['content'], desc['content'])
+    """
     movie = json.loads(json_data.contents[0])
-    print(movie)
     output['title'] = movie["name"]
     output["description"] = movie["trailer"]["description"]
-    #print(quote.get("content", "Invalid quote resource!"))
     print(output)
 
 
 
+"""
