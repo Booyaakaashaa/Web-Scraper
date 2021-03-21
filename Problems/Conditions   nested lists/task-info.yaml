@@ -6,5 +6,8 @@ files:
   text: '# the list "students" is already defined'
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6944#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 21 Mar 2021 01:36:43 UTC
 record: -1
