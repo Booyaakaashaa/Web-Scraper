@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/455321/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Sun, 14 Mar 2021 09:46:10 UTC
+update_date: Sun, 21 Mar 2021 01:34:14 UTC
 stages:
 - id: 781
   step: 11755
@@ -108,12 +108,24 @@ topics:
   - title: BeautifulSoup
     theory_id: 10209
   2:
+  - title: Binary numbers
+    theory_id: 5544
+  - title: Hexadecimal numbers
+    theory_id: 8788
+  - title: Units of information
+    theory_id: 6865
   - title: Files
     theory_id: 6989
   - title: Files in Python
     theory_id: 8691
   - title: Writing files
     theory_id: 8334
+  - title: Unicode
+    theory_id: 7899
+  - title: Bytes basics
+    theory_id: 8061
+  - title: Creating bytes
+    theory_id: 8069
   4:
   - title: os module
     theory_id: 11119

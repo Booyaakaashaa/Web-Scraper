@@ -36,7 +36,7 @@ files:
                 return CheckResult.wrong("An error occurred when tests tried to connect to the Internet page.\n"
                                          "Please, try again.")
             try:
-                with open("../stage4/source.html", "rb") as f:
+                with open("source.html", "rb") as f:
                     file_content = f.read()
                     if file_content == test_content:
                         return CheckResult.correct() if "Content saved" in reply and "The URL returned" not in reply \

@@ -27,7 +27,7 @@ class WebScraperTest(StageTest):
         possible_descriptions = ["prodigious introvert Beth Harmon discovers and masters the game of chess"]
         output = re.search('({.+})', reply)
         if output is None:
-            return CheckResult.wrong("Output was expected.\n"
+            return CheckResult.wrong("Output dictionary was expected.\n"
                                      "However, it was not found.")
         try:
             reply_dict = ast.literal_eval(output.group(0))
@@ -57,8 +57,12 @@ class WebScraperTest(StageTest):
     def check_godfather(self, reply, attach=None):
         possible_descriptions = ["An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son",
                                  "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."]
+        output = re.search('({.+})', reply)
+        if output is None:
+            return CheckResult.wrong("Output dictionary was expected.\n"
+                                     "However, it was not found.")
         try:
-            reply_dict = ast.literal_eval(re.search('({.+})', reply).group(0))
+            reply_dict = ast.literal_eval(output.group(0))
         except SyntaxError:
             return CheckResult.wrong("An error occurred while your output was being parsed.\n"
                                      "Make sure you output a dictionary and its keys and values contain no HTML tags.")
