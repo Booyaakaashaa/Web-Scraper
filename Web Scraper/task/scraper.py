@@ -12,8 +12,9 @@ else:
     soup = BeautifulSoup(req.content, 'html.parser')
     json_data = soup.find('script', type="application/ld+json")
     movie = json.loads(json_data.contents[0])
+    print(movie)
     output['title'] = movie["name"]
-    output["description"] = movie["description"]
+    output["description"] = movie["trailer"]["description"]
     #print(quote.get("content", "Invalid quote resource!"))
     print(output)
 
