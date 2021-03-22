@@ -12,4 +12,4 @@ else:
     desc = soup.find('meta', property="og:description")
     output["title"] = title["content"]
     output["description"] = desc["content"]
-    print(output)fdcsfd
+    print(output)
