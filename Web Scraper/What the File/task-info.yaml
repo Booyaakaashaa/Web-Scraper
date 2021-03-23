@@ -64,6 +64,9 @@ files:
     if __name__ == '__main__':
         WebScraperTest().run_tests()
   learner_created: false
+- name: file.html
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/145/stages/783/implement#comment
 status: Unchecked
 record: -1

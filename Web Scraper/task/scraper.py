@@ -1,15 +1,16 @@
 import requests
 from bs4 import BeautifulSoup
 
-output = {}
 url = input("Input the URL:\n")
-req = requests.get(url, headers={'Accept-Language': 'en-US,en;q=0.5'})
-if req.status_code != 200 or "imdb" not in url or "name" in url:
-    print("Invalid movie page!")
+req = requests.get(url)
+if req.status_code != 200:
+    print(f"The URL returned {req.status_code}")
 else:
-    soup = BeautifulSoup(req.content, 'html.parser')
+    with open('file.html', 'wb') as scraped:
+        scraped.write(req.content)
+        print("Content saved.")
+"""    soup = BeautifulSoup(req.content, 'html.parser')
     title = soup.find('meta', property='og:title')
     desc = soup.find('meta', property="og:description")
     output["title"] = title["content"]
-    output["description"] = desc["content"]
-    print(output)
+    output["description"] = desc["content"]"""
