@@ -6,9 +6,9 @@ req = requests.get(url)
 if req.status_code != 200:
     print(f"The URL returned {req.status_code}")
 else:
-    with open('file.html', 'wb') as scraped:
+    with open('source.html', 'wb') as scraped:
         scraped.write(req.content)
-        print("Content saved.")
+    print("\nContent saved.")
 """    soup = BeautifulSoup(req.content, 'html.parser')
     title = soup.find('meta', property='og:title')
     desc = soup.find('meta', property="og:description")
