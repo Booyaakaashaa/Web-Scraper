@@ -138,9 +138,6 @@ files:
     </body>
     </html>
   learner_created: true
-- name: '{32'
-  visible: true
-  learner_created: true
 - name: Row_erupts_over_university’s_use_of_research_metrics_in_job-cut_decisions.txt
   visible: true
   learner_created: true
@@ -151,6 +148,12 @@ files:
   visible: true
   learner_created: true
 - name: First_known_gene_transfer_from_plant_to_insect_identified.txt
+  visible: true
+  learner_created: true
+- name: COVID_research_updates_Coronavirus_antibodies_last_for_months_—_if_you_have_them.txt
+  visible: true
+  learner_created: true
+- name: Row_erupts_over_university’s_use_of_research_metrics_in_jobcut_decisions.txt
   visible: true
   learner_created: true
 feedback_link: https://hyperskill.org/projects/145/stages/784/implement#comment
