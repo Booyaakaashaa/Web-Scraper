@@ -15,6 +15,7 @@ for article in article_data:
     file_name = file_name.translate(underscore)
     with open(f"{file_name}.txt", "wb") as output:
         output.write(bytes(new_soup.get_text(), encoding="utf-8"))
+print("All files written and saved successfully")
 
 
 
