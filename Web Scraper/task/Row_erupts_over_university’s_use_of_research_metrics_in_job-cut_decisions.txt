@@ -1,0 +1,1015 @@
+
+
+
+
+
+
+
+
+
+
+Row erupts over university’s use of research metrics in job-cut decisions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all journals
+
+
+
+
+Search
+
+
+
+
+My Account
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+
+
+
+
+Journal information
+
+
+
+
+Publish with us
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+
+
+
+nature
+
+
+
+news
+
+
+
+
+article
+
+
+
+
+
+
+
+
+
+
+NEWS
+                    
+25 March 2021
+
+
+
+Row erupts over university’s use of research metrics in job-cut decisions
+
+                    Critics say redundancies are being decided using unreliable measures related to funding and citations, highlighting broader unease about the use of metrics in science.
+                
+
+
+
+
+
+
+
+                    Holly Else
+                
+
+
+
+
+Search for this author in:
+
+Pub Med
+Nature.com
+Google Scholar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share on Twitter
+Share on Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share on Facebook
+Share on Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share via E-Mail
+Share via E-Mail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Victoria Building at the University of Liverpool, UK.Credit: Getty
+
+
+A university in the United Kingdom is facing criticism over the responsible use of research metrics, after it used information about scientists’ research income and publication records to identify dozens of jobs that are ‘at risk’.Critics say that using metrics in such a decision is inappropriate because they tend to focus on a small part of an academic’s job. They add that the institution at the centre of the row — the University of Liverpool — used a metric based on citations that is designed to evaluate large groups of researchers, rather than individuals.The university has defended the way it used metrics, and says these weren’t the only factors it considered when making the decision.The debate highlights broader unease about the use of metrics in science as more data are collected to assess the quality of researchers’ work. Some say these quantitative measures of performance concentrate too much on publication records while failing to acknowledge other types of work, including teaching, committee work and peer review.A range of factorsThe University of Liverpool plans to cut dozens of jobs across its faculty of health and life sciences as part of a reorganization. During January and February, the university notified 47 researchers that their jobs were at risk.In a statement to Nature’s news team, the university says that a five-year average of research income was used to identify researchers whose jobs could be at risk, and that “a range of factors that might remove colleagues from the pool of those potentially at risk were then considered, including the contribution of positive citation metrics where appropriate”. The university declined to specify what these metrics were.
+
+Major review calls time on ‘gaming’ in UK research assessment
+The statement says that other indicators were considered alongside these metrics, including “impact case study authorship, leadership contribution and membership of external bodies”, and that potentially mitigating circumstances — including impacts of the COVID-19 pandemic, parental leave and reduced hours because of caring responsibilities — were taken into account.However, an e-mail seen by Nature that was sent to University of Liverpool staff by the local branch of the University and College Union, which represents academics across the United Kingdom, says that managers identified employees who are at risk of redundancy using two key metrics and did not take other aspects of their day-to-day work into account.The e-mail, which quotes a university document, states that managers established a “quality baseline” by looking at the performance of staff “against key metrics, focussing in particular on research income and quality of individual outputs”. The two metrics used were a five-year average of research income compared with that of researchers at similar universities, and a score called field-weighted citation impact, which measures how often research papers are cited relative to the rest of the papers in their field.Elizabeth Gadd, a research-policy manager at Loughborough University in the United Kingdom, says that the field-weighted citation-impact metric is not suitable for assessing the work of individual researchers. “It is only stable for large publication sets, for example 10,000 documents or more,” she explains.
+
+Craft metrics to value co-production
+Patricia Murray, a molecular physiologist at the University of Liverpool who is not at risk of redundancy, was so appalled by the apparent misuse of metrics that she e-mailed colleagues to rally support for those affected. This resulted an open letter to university management, which has been signed by more than 400 researchers at her university and elsewhere. The letter says that the metrics used were “particularly problematic” and that their use has endangered the jobs of the “most collegial faculty members, running technology facilities and serving on the committees that keep our departments and institutes running smoothly”.“Assessing staff solely on the basis of quantitative metrics is never acceptable, no matter what type of metric is being used,” it adds.Confidential discussionsThe outcry has also prompted organizations that advocate for the responsible use of metrics to contact the institution.These include the Declaration on Research Assessment (DORA), of which the University of Liverpool is a signatory. The declaration says that institutions should not use metrics “to assess an individual scientist’s contributions, or in hiring, promotion, or funding decisions”. On its website, the university says that, by signing up to DORA, it has committed to avoid using journal-based metrics to make decisions, to recognize the value of all relevant research outputs and to be explicit about the criteria used to evaluate academic productivity.A spokesperson for DORA says the organization has had discussions with the university that remain confidential to allow “a free and honest exchange of information and views”. They declined to comment about whether they are satisfied with the institution’s response.
+
+The Leiden Manifesto for research metrics
+The authors of the Leiden Manifesto, another statement on the responsible use of metrics, wrote to the university’s vice-chancellor, Janet Beer, to raise concerns. “We regard the application of quantitative metrics in a mass redundancy as a major threat for recent initiatives on responsible research metrics,” wrote bibliometricians Ismael Rafols, Ludo Waltman and Sarah de Rijcke, at Leiden University in the Netherlands.The letter, dated 21 February, outlines how metrics can be biased towards certain research topics or ages, and says this “may contravene the basic principle of equal treatment in employment”. This is the first time to their knowledge that metrics have been used to single out researchers for job cuts at a university in Europe, the authors add. Rafols says the group has not yet received a response.The public dispute shows how much ground the discussion about metrics is gaining, says James Wilsdon, a research-policy researcher at the University of Sheffield, UK, and a member of the UK Forum for Responsible Research Metrics (FFRM), whose members have also discussed the situation with Liverpool. A letter from the FFRM to the institution calls for a “fair and evidence-informed resolution” to the issue.“While this is obviously a horrible situation for the researchers affected, it also in some ways reflects the growing maturity and mainstreaming of debates about measurement and assessment,” Wilsdon says.
+
+doi: https://doi.org/10.1038/d41586-021-00793-7
+
+
+
+
+Latest on:
+
+
+Careers
+
+
+
+
+
+Raising my hand to ask a question terrifies me, and I am not alone
+Career Guide 24 MAR 21
+
+
+
+
+
+Linguistic tricks to grab your online audience’s attention
+Career Guide 24 MAR 21
+
+
+
+
+
+Coronavirus diaries: the COVID 19
+Career Column 24 MAR 21
+
+
+
+
+
+
+Institutions
+
+
+
+
+
+Rising tide of China’s science lifts Asia-Pacific research
+Nature Index 17 MAR 21
+
+
+
+
+
+Partnerships in progress
+Nature Index 17 MAR 21
+
+
+
+
+
+Politics and the pandemic disrupt migration patterns in research
+Nature Index 17 MAR 21
+
+
+
+
+
+
+
+
+
+
+
+
+Jobs from Nature Careers
+
+
+
+
+
+
+All jobs
+
+
+
+
+
+
+
+
+
+Pediatric Neuroimmunology Developmental Neuroscience Research Faculty: Pacific Northwest
+Merritt Hawkins
+Portland, OR, United States
+
+JOB POST
+
+
+
+
+
+
+
+
+
+
+
+Professor and Department Head of the Department of Earth and Planetary Sciences
+The University of Tennessee at Knoxville (UTK)
+Knoxville, TN, United States
+
+JOB POST
+
+
+
+
+
+
+
+
+
+
+
+Research Track Faculty in Human Statistical Genetics
+Washington University School of Medicine (WUSM), WUSTL
+St Louis, MO, United States
+
+JOB POST
+
+
+
+
+
+
+
+
+
+
+
+Postdoctoral Fellow
+Florida Atlantic University (FAU)
+Jupiter, FL, United States
+
+JOB POST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nature Briefing
+An essential round-up of science news, opinion and analysis, delivered to your inbox every weekday.
+
+
+
+
+Email address
+
+
+
+Yes! Sign me up to receive the daily Nature Briefing email. I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+
+Sign up
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+                                                
+                                                The Leiden Manifesto for research metrics
+                                            
+
+
+
+
+
+
+
+
+
+                                                
+                                                Craft metrics to value co-production
+                                            
+
+
+
+
+
+
+
+
+
+                                                
+                                                This interactive map reveals which journals cite each other the most
+                                            
+
+
+
+
+
+
+
+
+
+                                                
+                                                Major review calls time on ‘gaming’ in UK research assessment
+                                            
+
+
+
+
+
+
+
+
+
+                                                
+                                                Announcement:: Nature journals support the San Francisco Declaration on Research Assessment
+                                            
+
+
+
+
+
+                                                
+                                                We need a measured approach to metrics
+                                            
+
+
+
+
+
+Subjects
+
+Careers
+
+Institutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up to Nature Briefing
+An essential round-up of science news, opinion and analysis, delivered to your inbox every weekday.
+
+
+
+
+Email address
+
+
+
+Yes! Sign me up to receive the daily Nature Briefing email. I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+
+
+
+
+
+Email address
+
+
+Sign up
+
+
+
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+
+
+
+                                    Research articles
+                                
+
+
+
+                                    News
+                                
+
+
+
+                                    Opinion
+                                
+
+
+
+                                    Research Analysis
+                                
+
+
+
+                                    Careers
+                                
+
+
+
+                                    Books & Culture
+                                
+
+
+
+                                    Podcasts
+                                
+
+
+
+                                    Videos
+                                
+
+
+
+                                    Current issue
+                                
+
+
+
+                                    Browse issues
+                                
+
+
+
+                                    Collections
+                                
+
+
+
+                                    Subjects
+                                
+
+
+Follow us on Facebook
+                            
+
+
+Follow us on Twitter
+                            
+
+
+
+Subscribe
+
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+Journal information
+
+
+
+                                About the Journal
+                            
+
+
+
+                                Awards
+                            
+
+
+
+
+
+
+Publish with us
+
+
+
+                                For Authors
+                            
+
+
+
+                                For Referees
+                            
+
+
+Submit manuscript
+
+
+
+
+
+
+
+Search
+
+
+
+Search articles by subject, keyword or author
+
+
+
+
+
+Show results from
+
+All journals
+
+
+
+Search
+
+
+
+
+
+
+
+
+                    Advanced search
+                
+
+
+Quick links
+
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+
+
+
+
+
+
+
+
+
+                    Nature
+                
+
+ISSN 1476-4687 (online)
+                
+
+
+
+
+
+
+
+
+
+nature.com sitemap
+
+
+
+
+
+About us
+Press releases
+Press office
+Contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discover content
+
+Journals A-Z
+Articles by subject
+Nano
+Protocol Exchange
+Nature Index
+
+
+
+Publishing policies
+
+Nature portfolio policies
+Open access
+
+
+
+Author & Researcher services
+
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Nature Research Academies
+
+
+
+Libraries & institutions
+
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+
+
+
+Advertising & partnerships
+
+Advertising
+Partnerships & Services
+Media kits
+Branded content
+
+
+
+Career development
+
+Nature Careers
+Nature  Conferences
+Nature  events
+
+
+
+Regional websites
+
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Korea
+Nature Middle East
+
+
+
+Legal & Privacy
+
+Privacy Policy
+Use of cookies
+Manage cookies/Do not sell my data
+Legal notice
+Accessibility statement
+Terms & Conditions
+California Privacy Statement
+
+
+
+
+
+
+
+
+
+
+© 2021 Springer Nature Limited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\
+        
+
+
+
+
+
+
+

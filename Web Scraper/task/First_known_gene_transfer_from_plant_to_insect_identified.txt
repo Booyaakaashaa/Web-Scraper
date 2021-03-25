@@ -1,0 +1,1022 @@
+
+
+
+
+
+
+
+
+
+
+First known gene transfer from plant to insect identified
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all journals
+
+
+
+
+Search
+
+
+
+
+My Account
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+
+
+
+
+Journal information
+
+
+
+
+Publish with us
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+
+
+
+nature
+
+
+
+news
+
+
+
+
+article
+
+
+
+
+
+
+
+
+
+
+NEWS
+                    
+25 March 2021
+
+
+
+First known gene transfer from plant to insect identified
+
+                    Discovery that a whitefly uses a stolen plant gene to elude its host's defences may offer a route to new pest-control strategies.
+                
+
+
+
+
+
+
+
+                    Heidi Ledford
+                
+
+
+
+
+Search for this author in:
+
+Pub Med
+Nature.com
+Google Scholar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share on Twitter
+Share on Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share on Facebook
+Share on Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share via E-Mail
+Share via E-Mail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Some whiteflies use plant genes to render toxins in their food harmless.Credit: Getty
+
+
+A pernicious agricultural pest owes some of its success to a gene pilfered from its plant host millions of years ago.The finding, reported today in Cell1, is the first known example of a natural gene transfer from a plant to an insect. It also explains one reason why the whitefly Bemisia tabaci is so adept at munching on crops: the gene that it swiped from plants enables it to neutralize a toxin that some plants produce to defend against insects.Early work suggests that inhibiting this gene can render the whiteflies vulnerable to the toxin, providing a potential route to combating the pest. “This exposes a mechanism through which we can tip the scales back in the plant’s favour,” says Andrew Gloss, who studies plant–pest interactions at the University of Chicago in Illinois. “It’s a remarkable example of how studying evolution can inform new approaches for applications like crop protection.”The diminutive whitefly — which is more closely related to aphids than to flies — wreaks agricultural havoc around the world. B. tabaci is among the most destructive plant pests: whiteflies sup sugary sap from hundreds of types of plant, all the while excreting a sticky, sweet substance called honeydew that serves as a breeding ground for mould. Whiteflies are also vectors for more than a hundred pathogenic plant viruses.Stolen genesThat some species of whitefly could owe part of their predatory prowess to genes from other organisms is not entirely surprising, because genetic thievery is common in the arms race between plants and their pests. Over millions of years, plants and insects alike have borrowed heavily from microbial genomes, sometimes using their newly acquired genes to develop defensive or offensive strategies.Some insects, such as the coffee berry borer (Hypothenemus hampei), have plundered microbial genes to extract more nutrition from hard-to-digest plant cell walls2, and a wild relative of wheat has pilfered a fungal gene to fight off a fungal disease called head blight3. But plants and insects were not known to steal from each other before now.
+
+Fungi borrowed bacterial gene again and again
+Entomologist Youjun Zhang at the Chinese Academy of Agricultural Sciences in Beijing and his colleagues were scouring the B. tabaci genome for stolen genes, when they found one that seemed to have evolved not in other insects or microbes, but in plants.Further study showed that the gene can transfer a chemical group on to defensive compounds called phenolic glucosides. Such compounds are made by many plants, including tomatoes, to ward off pests. But the modification caused by the whitefly gene rendered the compounds harmless.To test the hypothesis, the team engineered tomato plants to produce a double-stranded RNA molecule capable of shutting down expression of the whitefly gene. Nearly all of the whiteflies that subsequently fed on these doctored tomato plants died.That result suggests a new means of targeting whiteflies, says Jonathan Gershenzon, a chemical ecologist at the Max Planck Institute for Chemical Ecology in Jena, Germany. “It offers an enormous chance to be specific,” he says. “You could keep the whiteflies away but not harm beneficial insects such as pollinators.”Plants-pests battleGene transfer between species can be difficult to prove, says study co-author Ted Turlings, a chemical ecologist at the University of Neuchâtel in Switzerland. To do so, Zhang, Turlings and their colleagues analysed the sequences of similar genes in plants, and determined that the whitefly gene was their evolutionary kin. The team also carried out analyses to show that the gene was integrated into the whitefly genome, and was not the result of plant DNA contaminating samples.
+
+Antibiotics set to flood Florida’s troubled orange orchards
+The results were surprising, but convincing, says Yannick Pauchet, a molecular entomologist also at the Max Planck Institute for Chemical Ecology. “According to the data they provide, horizontal gene transfer is the most parsimonious explanation,” he says.But how the whitefly managed to swipe a plant gene is unclear. One possibility, says Turlings, is that a virus served as an intermediate, shuttling genetic material from a plant into the whitefly genome.As researchers sequence more genomes, it’s possible that they’ll uncover more examples of gene transfer between plants and animals, says Gloss. “Insects taking the genes from the plants themselves is just that last bit of the arsenal that we hadn’t found yet,” he says. “In the battle between plants and their insect pests or pathogens, there are genes being drawn from all over the tree of life.”
+
+doi: https://doi.org/10.1038/d41586-021-00782-w
+
+
+References1.Xia, J. et al. Cell https://10.1016/j.cell.2021.02.014 (2021).Article
+                                        Google Scholar2.Acuña, R. et al. Proc. Natl Acad. Sci. USA 109, 4197–4202 (2012).PubMedArticle
+                                        Google Scholar3.Wang, H. et al. Science 368, eaba5435 (2020).PubMedArticle
+                                        Google ScholarDownload references
+
+
+Latest on:
+
+
+Genetics
+
+
+
+
+
+Rabbits that do ‘handstands’ help to find a gene for hopping
+Research Highlight 25 MAR 21
+
+
+
+
+
+Breast tumours maintain a reservoir of subclonal diversity during expansion
+Article 24 MAR 21
+
+
+
+
+
+Genomics data: the broken promise is to Indigenous people
+Correspondence 19 MAR 21
+
+
+
+
+
+
+Agriculture
+
+
+
+
+
+Revamp of UK CRISPR regulation will require public trust
+Editorial 16 MAR 21
+
+
+
+
+Reshoring EU agriculture risks undermining SDGs
+Correspondence 12 JAN 21
+
+
+
+
+
+Genomic basis of geographical adaptation to soil nitrogen in rice
+Article 06 JAN 21
+
+
+
+
+
+
+Plant sciences
+
+
+
+
+
+Developmental and biophysical determinants of grass leaf size worldwide
+Article 24 MAR 21
+
+
+
+
+
+Revamp of UK CRISPR regulation will require public trust
+Editorial 16 MAR 21
+
+
+
+
+
+Mutual potentiation of plant immunity by cell-surface and intracellular receptors
+Article 10 MAR 21
+
+
+
+
+
+
+
+
+
+
+
+
+Jobs from Nature Careers
+
+
+
+
+
+
+All jobs
+
+
+
+
+
+
+
+
+
+Pediatric Neuroimmunology Developmental Neuroscience Research Faculty: Pacific Northwest
+Merritt Hawkins
+Portland, OR, United States
+
+JOB POST
+
+
+
+
+
+
+
+
+
+
+
+Professor and Department Head of the Department of Earth and Planetary Sciences
+The University of Tennessee at Knoxville (UTK)
+Knoxville, TN, United States
+
+JOB POST
+
+
+
+
+
+
+
+
+
+
+
+Research Track Faculty in Human Statistical Genetics
+Washington University School of Medicine (WUSM), WUSTL
+St Louis, MO, United States
+
+JOB POST
+
+
+
+
+
+
+
+
+
+
+
+Postdoctoral Fellow
+Florida Atlantic University (FAU)
+Jupiter, FL, United States
+
+JOB POST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nature Briefing
+An essential round-up of science news, opinion and analysis, delivered to your inbox every weekday.
+
+
+
+
+Email address
+
+
+
+Yes! Sign me up to receive the daily Nature Briefing email. I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+
+Sign up
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+                                                
+                                                Thousands turn out to support science in Italy’s stricken olive region
+                                            
+
+
+
+
+
+
+
+
+
+                                                
+                                                Antibiotics set to flood Florida’s troubled orange orchards
+                                            
+
+
+
+
+
+                                                
+                                                The bitter battle over the world’s most popular insecticides
+                                            
+
+
+
+
+
+
+
+
+
+                                                
+                                                Fungi borrowed bacterial gene again and again
+                                            
+
+
+
+
+
+Subjects
+
+Genetics
+
+Agriculture
+
+Plant sciences
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up to Nature Briefing
+An essential round-up of science news, opinion and analysis, delivered to your inbox every weekday.
+
+
+
+
+Email address
+
+
+
+Yes! Sign me up to receive the daily Nature Briefing email. I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+
+
+
+
+
+Email address
+
+
+Sign up
+
+
+
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+
+
+
+                                    Research articles
+                                
+
+
+
+                                    News
+                                
+
+
+
+                                    Opinion
+                                
+
+
+
+                                    Research Analysis
+                                
+
+
+
+                                    Careers
+                                
+
+
+
+                                    Books & Culture
+                                
+
+
+
+                                    Podcasts
+                                
+
+
+
+                                    Videos
+                                
+
+
+
+                                    Current issue
+                                
+
+
+
+                                    Browse issues
+                                
+
+
+
+                                    Collections
+                                
+
+
+
+                                    Subjects
+                                
+
+
+Follow us on Facebook
+                            
+
+
+Follow us on Twitter
+                            
+
+
+
+Subscribe
+
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+Journal information
+
+
+
+                                About the Journal
+                            
+
+
+
+                                Awards
+                            
+
+
+
+
+
+
+Publish with us
+
+
+
+                                For Authors
+                            
+
+
+
+                                For Referees
+                            
+
+
+Submit manuscript
+
+
+
+
+
+
+
+Search
+
+
+
+Search articles by subject, keyword or author
+
+
+
+
+
+Show results from
+
+All journals
+
+
+
+Search
+
+
+
+
+
+
+
+
+                    Advanced search
+                
+
+
+Quick links
+
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+
+
+
+
+
+
+
+
+
+                    Nature
+                
+
+ISSN 1476-4687 (online)
+                
+
+
+
+
+
+
+
+
+
+nature.com sitemap
+
+
+
+
+
+About us
+Press releases
+Press office
+Contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discover content
+
+Journals A-Z
+Articles by subject
+Nano
+Protocol Exchange
+Nature Index
+
+
+
+Publishing policies
+
+Nature portfolio policies
+Open access
+
+
+
+Author & Researcher services
+
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Nature Research Academies
+
+
+
+Libraries & institutions
+
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+
+
+
+Advertising & partnerships
+
+Advertising
+Partnerships & Services
+Media kits
+Branded content
+
+
+
+Career development
+
+Nature Careers
+Nature  Conferences
+Nature  events
+
+
+
+Regional websites
+
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Korea
+Nature Middle East
+
+
+
+Legal & Privacy
+
+Privacy Policy
+Use of cookies
+Manage cookies/Do not sell my data
+Legal notice
+Accessibility statement
+Terms & Conditions
+California Privacy Statement
+
+
+
+
+
+
+
+
+
+
+© 2021 Springer Nature Limited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\
+        
+
+
+
+
+
+
+
