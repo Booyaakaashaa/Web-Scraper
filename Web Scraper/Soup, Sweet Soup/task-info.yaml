@@ -111,6 +111,34 @@ files:
     if __name__ == '__main__':
         WebScraperTest().run_tests()
   learner_created: false
+- name: source.html
+  visible: true
+  text: |
+    <html>
+    <head>
+      <title>warming up</title>
+      <link rel="stylesheet" type="text/css" href="../style.css">
+    </head>
+    <body>
+    <center>
+    <img src="calc.jpg"><br>
+    <font color="gold">
+    <p>Hint: try to change the URL address.
+    </body>
+    </html>
+  learner_created: true
+- name: COVID_research_updates_Coronavirus_antibodies_last_for_months_—_if_you_have_them.txt
+  visible: true
+  learner_created: true
+- name: Row_erupts_over_university’s_use_of_research_metrics_in_jobcut_decisions.txt
+  visible: true
+  learner_created: true
+- name: Latest_results_put_Oxford–AstraZeneca_COVID_vaccine_back_on_track.txt
+  visible: true
+  learner_created: true
+- name: First_known_gene_transfer_from_plant_to_insect_identified.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/145/stages/785/implement#comment
 status: Unchecked
 record: -1
