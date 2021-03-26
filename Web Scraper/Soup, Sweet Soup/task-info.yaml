@@ -154,6 +154,15 @@ files:
 - name: Page_3/Solar_panels_that_throw_shade_on_canals_are_an_environmental_win–win__Research_Highlights.txt
   visible: true
   learner_created: true
+- name: Page_2/A_sight_to_see_40000_years_ago_a_hefty_kangaroo_up_a_tree.txt
+  visible: true
+  learner_created: true
+- name: Page_2/An_atom_shuffles_its_electrons_at_ultrahigh_speed_—_and_is_caught_in_the_act.txt
+  visible: true
+  learner_created: true
+- name: Page_2/Prehistoric_workers_dined_on_takeaway_three_millennia_before_Uber_Eats.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/145/stages/785/implement#comment
 status: Unchecked
 record: -1
