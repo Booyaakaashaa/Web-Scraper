@@ -139,6 +139,30 @@ files:
 - name: First_known_gene_transfer_from_plant_to_insect_identified.txt
   visible: true
   learner_created: true
+- name: A_sight_to_see_40000_years_ago_a_hefty_kangaroo_up_a_tree__Research_Highlights.txt
+  visible: true
+  learner_created: true
+- name: Solar_panels_that_throw_shade_on_canals_are_an_environmental_win–win__Research_Highlights.txt
+  visible: true
+  learner_created: true
+- name: How_deepsea_bacteria_thrive_under_pressure__Research_Highlights.txt
+  visible: true
+  learner_created: true
+- name: Rabbits_that_do_‘handstands’_help_to_find_a_gene_for_hopping__Research_Highlights.txt
+  visible: true
+  learner_created: true
+- name: Faint_galaxies_light_up_the_dark_web_filling_the_cosmos__Research_Highlights.txt
+  visible: true
+  learner_created: true
+- name: Rising_temperatures_spark_boom_in_Arctic_lightning__Research_Highlights.txt
+  visible: true
+  learner_created: true
+- name: An_atom_shuffles_its_electrons_at_ultrahigh_speed_—_and_is_caught_in_the_act__Research_Highlights.txt
+  visible: true
+  learner_created: true
+- name: Prehistoric_workers_dined_on_takeaway_three_millennia_before_Uber_Eats__Research_Highlights.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/145/stages/785/implement#comment
 status: Unchecked
 record: -1
